@@ -2,7 +2,7 @@
 
 > _Always exploring and learning._
 
-I've been studying front and backend JavaScript I'm loving Image Processing with Python.
+I've been studying front and backend JavaScript and I'm loving Image Processing with Python.
 
 ## Recent projects
 
