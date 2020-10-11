@@ -6,6 +6,10 @@ I've been studying front and backend JavaScript and I'm passionate about Image P
 
 ## Recent projects
 
+### [Web Developer Roadmap](https://github.com/irwinschmitt/web-developer)
+
+My roadmap to become a web developer.
+
 ### [Covid Tracker](https://github.com/irwinschmitt/covid-tracker)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon"><img src="https://img.shields.io/badge/Vue.js-34495e?style=for-the-badge&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Mapbox-3a67e8?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox Icon"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL Icon">
