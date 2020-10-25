@@ -2,7 +2,9 @@
 
 > _Always exploring and learning._
 
-I've been studying frontend (Vue.js, Angular and Ionic), backend (Node.js and NestJS) and SQL. My next step is to improve remote work skills.
+I've been studying frontend (Vue.js, Angular and Ionic), backend (Node.js and NestJS) and SQL.
+
+My next step is to improve remote work skills.
 
 ## Recent projects
 
