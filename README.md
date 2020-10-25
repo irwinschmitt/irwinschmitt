@@ -2,7 +2,7 @@
 
 > _Always exploring and learning._
 
-I've been studying front (web) and backend JavaScript and I'm passionate about Image Processing.
+I've been studying frontend (Vue.js, Angular and Ionic), backend (Node.js and NestJS) and SQL. My next step is to improve remote work skills.
 
 ## Recent projects
 
