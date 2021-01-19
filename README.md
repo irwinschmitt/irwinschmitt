@@ -11,6 +11,8 @@ My next step is to improve remote work skills.
 ### [Minha Matrícula](https://github.com/irwinschmitt/minha-matricula)
 A search engine to help students at University of Brasília enroll in courses.
 
+Demo: unb.irwinschmitt.com
+
 <img src="https://img.shields.io/badge/Vue.js-34495e?style=for-the-badge&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Algolia-5468FF?&style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia Icon">
 
 ### [Web Developer Roadmap](https://github.com/irwinschmitt/web-developer)
