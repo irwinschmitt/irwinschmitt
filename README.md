@@ -8,23 +8,25 @@ My next step is to improve remote work skills.
 
 ## Last projects
 
-### [Move<span></span>.it](https://github.com/irwinschmitt/nlw4)
+<h3>
+  <a href="https://github.com/irwinschmitt/nlw4" target="_blank">Move.it</a>
+</h3>
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js">
 
 Move.it is the gamification of the Pomodoro Technique in order to exercise the body for long periods writing code.
 
 Demo: https://moveit-irwin.vercel.app/
 
-### [Minha Matrícula](https://github.com/irwinschmitt/minha-matricula)
+<h3>
+  <a href="https://github.com/irwinschmitt/minha-matricula" target="_blank">Minha Matrícula</a>
+</h3>
+
 <img src="https://img.shields.io/badge/Vue.js-34495e?style=flat-square&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Algolia-5468FF?&style=flat-square&logo=algolia&logoColor=white" alt="Algolia Icon">
 
 A search engine to help students at University of Brasília enroll in courses.
 
 Demo: https://unb.irwinschmitt.com
-
-### [Web Developer Roadmap](https://github.com/irwinschmitt/web-developer)
-
-My roadmap to become a web developer.
 
 ### [Covid Tracker](https://github.com/irwinschmitt/covid-tracker)
 
