@@ -4,8 +4,6 @@
 
 I've been studying front-end (Vue.js, Angular and React), back-end (Node.js), SQL and NoSQL.
 
-My next step is to improve remote work skills.
-
 ## Last projects
 
 <h3>
