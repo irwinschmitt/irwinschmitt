@@ -6,14 +6,21 @@ I've been studying frontend (Vue.js, Angular and Ionic), backend (Node.js and Ne
 
 My next step is to improve remote work skills.
 
-## Recent projects
+## Last projects
+
+### [Move<span></span>.it](https://github.com/irwinschmitt/nlw4)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js">
+
+Move.it is the gamification of the Pomodoro Technique in order to exercise the body for long periods writing code.
+
+Demo: https://moveit-irwin.vercel.app/
 
 ### [Minha Matrícula](https://github.com/irwinschmitt/minha-matricula)
+<img src="https://img.shields.io/badge/Vue.js-34495e?style=flat-square&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Algolia-5468FF?&style=flat-square&logo=algolia&logoColor=white" alt="Algolia Icon">
+
 A search engine to help students at University of Brasília enroll in courses.
 
 Demo: https://unb.irwinschmitt.com
-
-<img src="https://img.shields.io/badge/Vue.js-34495e?style=for-the-badge&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Algolia-5468FF?&style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia Icon">
 
 ### [Web Developer Roadmap](https://github.com/irwinschmitt/web-developer)
 
@@ -21,9 +28,9 @@ My roadmap to become a web developer.
 
 ### [Covid Tracker](https://github.com/irwinschmitt/covid-tracker)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon"><img src="https://img.shields.io/badge/Vue.js-34495e?style=for-the-badge&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Mapbox-3a67e8?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox Icon"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL Icon">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Icon"><img src="https://img.shields.io/badge/Vue.js-34495e?style=flat-square&logo=vue.js" alt="Vue.js Icon"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify" alt="Vuetify Icon"><img src="https://img.shields.io/badge/Mapbox-3a67e8?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox Icon"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Icon"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" alt="PostgreSQL Icon">
 
-A full stack project to people be aware of near cases of COVID-19.
+Full stack project proposed by [LATITUDE.UnB](https://www.latitude.unb.br/) so that people know about cases close to COVID-19.
 
 ### [UnB Student Data](https://github.com/irwinschmitt/unb-student-data)
 
