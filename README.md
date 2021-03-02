@@ -14,7 +14,7 @@ I've been studying front-end (Vue.js, Angular and React), back-end (Node.js), SQ
 
 Move.it is the gamification of the Pomodoro Technique in order to exercise the body for long periods writing code.
 
-Demo: https://moveit-irwin.vercel.app/
+Demo: https://moveit-irwin.vercel.app
 
 <h3>
   <a href="https://github.com/irwinschmitt/minha-matricula" target="_blank">Minha Matrícula</a>
