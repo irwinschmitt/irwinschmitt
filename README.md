@@ -7,6 +7,16 @@ I've been studying front-end (Vue.js, Angular and React), back-end (Node.js), SQ
 ## Last projects
 
 <h3>
+  <a href="https://github.com/irwinschmitt/ibook" target="_blank">iBook</a>
+</h3>
+
+<img src="https://img.shields.io/badge/Vue.js-34495e?style=flat-square&logo=vue-dot-js" alt="Vue.js"><img src="https://img.shields.io/badge/Nuxt.js-34495e?style=flat-square&logo=nuxt-dot-js" alt="Nuxt.js"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+
+iBook is an online book reader.
+
+Demo: _soon_.
+
+<h3>
   <a href="https://github.com/irwinschmitt/nlw4" target="_blank">Move.it</a>
 </h3>
 
